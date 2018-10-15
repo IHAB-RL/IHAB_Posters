@@ -1,0 +1,1 @@
+Compilation of scientific posters concering the project 'Individual Hearing Aid Benefit in Real Life (IHAB-rl)
